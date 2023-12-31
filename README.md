@@ -4,7 +4,7 @@ Welcome to DiSUcord, a simple message networking application developed as a cour
 # Features
 DiSUcord offers a range of features to enhance your messaging experience:
 
-# User-Friendly Interface
+### User-Friendly Interface
 Client GUI: Our intuitive graphical user interface (GUI) is designed for ease of use. With separate components for each channel, you can effortlessly navigate and interact with the application. Clear channel subscription statuses keep you informed at all times.
 
 # Server GUI: The server GUI acts as a monitoring tool, displaying all server-client interactions for administrative purposes. You can keep track of client connections, message transfers, and more in real-time.
