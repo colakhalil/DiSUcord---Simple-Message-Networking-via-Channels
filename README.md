@@ -15,34 +15,34 @@ Channel Subscriptions: DiSUcord provides two fixed channels, "IF 100" and "SPS 1
 #### Message Display
 Each channel features a rich text box for displaying messages sent to that specific channel. You can view messages from multiple channels simultaneously.
 
-###### Unique Usernames
+#### Unique Usernames
 Username Authentication: Each client must have a unique username, ensuring a distinct identity within the DiSUcord network. You can enter your username through the client GUI.
 
-###### Username Handling
+#### Username Handling
 The server keeps track of connected clients' usernames to prevent duplicate connections with the same name. This ensures a smooth and secure user experience.
 
-###### Real-Time Communication
+#### Real-Time Communication
 Message Sending: You can send messages to the channels you are subscribed to. Messages are delivered in real-time to all subscribers of the channel, including yourself.
 
-###### Message History
+#### Message History
 While you can view messages sent after your subscription, DiSUcord does not display messages sent before your subscription to maintain message relevance.
 
-###### Connection Management
+#### Connection Management
 Server Connection: Easily connect to the server by entering the server's IP address and port number via the client GUI. The connection status is displayed, providing immediate feedback.
 
-###### Disconnection Handling
+#### Disconnection Handling
 DiSUcord gracefully handles disconnections. You can disconnect from the system by pressing the disconnect button on the client GUI or closing the client window without causing crashes.
 
-###### Server Management
+#### Server Management
 Server Port Configuration: The server's port number is configurable through the Server GUI, allowing flexibility in network setup.
 
-###### Multi-Client Support
+#### Multi-Client Support
 The server supports multiple client connections simultaneously, ensuring efficient communication among users.
 
-###### Detailed Logging
+#### Detailed Logging
 The Server GUI logs all server activities, including client connections, channel subscriptions, message transfers, and more. This comprehensive logging helps administrators monitor the system effectively.
 
-###### Robust Error Handling
+#### Robust Error Handling
 Graceful Closures: DiSUcord ensures that neither the server nor the client application crashes, even during abrupt closures. The system terminates processes gracefully.
 Get Started
 To use DiSUcord, follow these steps:
